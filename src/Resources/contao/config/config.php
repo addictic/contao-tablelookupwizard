@@ -13,4 +13,4 @@
 /**
  * Backend form fields
  */
-$GLOBALS['BE_FFL']['tableLookup'] = 'TableLookupWizard';
+$GLOBALS['BE_FFL']['tableLookup'] = 'Terminal42\\ContaoTableLookupWizard\\TableLookupWizard';

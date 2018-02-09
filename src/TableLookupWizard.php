@@ -10,10 +10,12 @@
  * @license    http://opensource.org/licenses/lgpl-3.0.html LGPL
  */
 
-namespace Contao;
+namespace Terminal42\ContaoTableLookupWizard;
+
+use Contao\Widget;
 
 
-class TableLookupWizard extends \Widget
+class TableLookupWizard extends Widget
 {
 
     /**
